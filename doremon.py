@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import datetime
 
 # Get today's date
@@ -21,3 +22,6 @@ raj codrinks nfggson
 fgosnond
 dkfgosng
 print("om")
+=======
+this is python code file 
+>>>>>>> 6229b8929108f29dd3492f29f42fc112454d4685
